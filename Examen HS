@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<!-- TITRE DE LA PAGE !-->
+		<title> heritier Syaira </title>
+
+		<!-- DEFINIR L'ENCODAGE DES CARACTERES !-->
+		<meta charset="UTF-8"/>
+
+		<!-- CREER LE RESPONSIVE DESIGN !-->
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link rel="stylesheet" type="text/css" href="forme.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	</head>
+	 <body>
+	 	<header>
+	 		<nav class="navigation">
+	 			<div class="logo"><a href="index.html"><img src="logo.png" width="100px"></a></div>
+	 			<div class="menu">
+					<a href="#">HERITIER SYAIRA </a>
+					<a href="#GALERIE"> GALERIE </a>
+					<a href="CONTACT.html">CONTACT </a>
+
+	 			</div>
+	 		</nav>
+	 		<div class="presentation">
+	 			<h1> BIENVENUS SUR  MON SITE WEB  </h1>
+	 			<h3>je suis là pour vous rendre service  sur le dommaine de l'Informatique<h3> 
+	 		</div>
+	 	</header>
+
+	 <!-- SECTION 1     !-->
+	 <section class="section1">
+	 	<div class="gauche"><p>
+	 		 <h1 id="BIOGRAPHIE DE HERITIER SYAIRA"><i class="fas fa-hands-helping"></i> BIOGRAPHIE DE HERITIER SYAIRA </h1>
+ <br/> <br/>Nom : MUHINDO
+Post-Nom : SYAIRA
+Prénom : HERITIER
+Né  à MUTWANGA, le 19/09/1999
+Etat civil : CELIBATAIRE 
+Nom  du Père : NDUNGO SIVIRIHAGHUMA  SALOMON
+Nom de la Mère : KAHINDO  KATSETSE  SOLANGE          
+<br/> <br/>Originaire de KAKALALI,  Groupement BOLEMA
+Secteur de RUWENZORI, Territoire de  BENI
+Province  du NORD-KIVU, Profession  INFORMATICIEN 
+<br/> <br/>HERIETIER SYAIRA est un informaticien Congolais,  pionnier dans le domaine de la Maintenance  informatique. Il a fondé en 2017, à l'âge de 18 ans, il a créé  l’entreprise  informatique  (renommée  HS  la Belle Vie) mais actuellement le nom de l'entreprise est déjà  changé en HS MOTIVATION située en République Démocratique du Congo, Province du Nord-Kivu en Ville de Beni dans le Quartier Cité Belge  en Commune de Bungulu <br/> <br/>J’ai commencé a étudié à l’année 2006  j’ai fait mon école primaire à l’E.P  KENGELE à  Mutwanga. J’étais le moins  intelligent de la classe car j’étais  déçu de la vie.
+Après  l’obtention de mon certificat de l’école primaire en 2014  je me suis déplacé dans un autre milieu qui est la Ville de Beni  ou  j’ai étudié dans 2 ans donc 1er et 2e humanité. <br/> <br/>Après ça j’ai retourné  encore à Mutwanga  pour  l’obtention de mon  diplôme d’état en Electricité Général à l’Institut  Ruwenzori, 
+Mais malgré que j’ai faisais l’électricité  mon  cœur était  toujours  passionné par l’Informatique,  car  un  jour  j’ai voulais faire une pratique de maintenance  informatique mais  ma mère  a refusé  avec succès, alors  j’étais  obligé  de chaque fois  faire  des  trafiques  pour  faire  toujours  des  formations  entre  autres :<br/> <br/>En 2017 j’ai fais la  formation de maintenance Informatique  avec  un  Ingénieur qui habitais  en Ouganda/KAMPALA il m’en taxé 160$  mais  suite  à la manqué de moyen j’ai payé  130$   et après il a compris  que j’aime trop la  vie  de l’Informatique, 
+En 2018 et 2019 j’ai  fais  la formation  sur les  déblocages des téléphones portables et les ordinateurs avec  un Ingénieur Informaticien DECRIS <br/> <br/>Guidée par la conviction que chaque vie a la même valeur, je m’efforce d’aider tout un chacun à mener une vie saine et productive. Dans les pays en voie de développement, Héritier  s’emploie à améliorer la santé des populations et à leur offrir la chance d’échapper à la faim et à l’extrême misère. En RDC,  j’œuvre  pour  que tous, et particulièrement les personnes les plus démunies, aient accès à ce dont elles ont besoin pour réussir leurs études et leur vie.<br/> <br/>
+ .</p></div>
+	 	<div class="droite"><img src="image0.jpg" width="400px"></div>
+	 </section>
+
+	 <!-- AUTRES SECTION !-->
+   <section class="partenaires" id="partenaires">
+     
+     <h1 id="GALERIE"><i class="fas fa-hands-helping"></i> GALERIE </h1>
+     
+     <div class="partenaires-images">
+       <p><img src="hss.jpg" width=""></p>
+       <p><img src="hsss.jpg" width=""></p>
+       <p><img src="hssss.jpg" width=""></p>
+       <p><img src="hs.jpg" width=""></p>
+       <p><img src="hsssss.jpg" width=""></p>
+       <p><img src="image0.jpg" width=""></p>
+       <p><img src="hs0.jpg" width=""></p>
+       <p><img src="h1.jpg" width=""></p>
+       <p><img src="h2.jpg" width=""></p>
+       <p><img src="h3.jpg" width=""></p>
+       <p><img src="image6.jpg" width=""></p>
+     </div>
+     
+   </section>
+  
+  <footer>
+    <p>&copy; HERITIER SYAIRA | Site maintenu par HS SYAIRA </p>
+    <div class="social-media">
+      <p><i class="fab fa-facebook-f"></i></p>
+      <p><i class="fab fa-twitter"></i></p>
+      <p><i class="fab fa-instagram"></i></p>
+      <p><i class="fab fa-Whatsapp"></i></p>
+    </div>
+  </footer>
+  
+	 </body>
+</html>
